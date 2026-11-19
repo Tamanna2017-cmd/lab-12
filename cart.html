@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Bag | NOVA</title>
+  <link rel="stylesheet" href="css/style.css">
+  <script src="js/app.js" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <a class="logo" href="index.html">NOVA<span>.</span></a>
+    <nav aria-label="Main navigation"><a href="index.html">Home</a><a href="products.html">Shop</a><a href="contact.html">Contact</a></nav>
+    <a class="cart-link active" href="cart.html">Bag <span class="cart-count">0</span></a>
+  </header>
+  <main class="page-main">
+    <div class="page-title"><p class="eyebrow">YOUR SELECTION</p><h1>Shopping bag</h1><p>Review your items before placing your sample order.</p></div>
+    <div class="cart-layout">
+      <section id="cart-items" class="cart-items"><p class="loading">Loading your bag...</p></section>
+      <aside class="summary-card">
+        <h2>Order summary</h2>
+        <div class="summary-line"><span>Subtotal</span><strong id="cart-subtotal">$0.00</strong></div>
+        <div class="summary-line"><span>Delivery</span><strong>Free</strong></div>
+        <div class="summary-line total-line"><span>Total</span><strong id="cart-total">$0.00</strong></div>
+        <button id="checkout-button" class="button full-button">Place sample order</button>
+        <p class="small-note">This is a student demo. No real payment will be taken.</p>
+        <div id="checkout-message" role="status"></div>
+      </aside>
+    </div>
+  </main>
+  <footer><a class="logo footer-logo" href="index.html">NOVA<span>.</span></a><p>Good things, chosen for you.</p><small>© 2026 NOVA. Student web programming project.</small></footer>
+</body>
+</html>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product id="n201">
+    <name>Everyday Crossbody Bag</name>
+    <category>Style</category>
+    <price>32.00</price>
+    <description>A versatile bag for days when you are on the go.</description>
+    <emoji>👜</emoji>
+    <badge>Featured</badge>
+  </product>
+  <product id="n202">
+    <name>Relaxed Cotton Shirt</name>
+    <category>Style</category>
+    <price>27.50</price>
+    <description>An easy-to-style essential with a relaxed fit.</description>
+    <emoji>👕</emoji>
+    <badge>New</badge>
+  </product>
+  <product id="n203">
+    <name>Glow Care Set</name>
+    <category>Beauty</category>
+    <price>24.00</price>
+    <description>A simple self-care set for your daily routine.</description>
+    <emoji>🧴</emoji>
+    <badge>Popular</badge>
+  </product>
+  <product id="n204">
+    <name>Soft Scent Candle</name>
+    <category>Beauty</category>
+    <price>16.00</price>
+    <description>A gentle scent to make your space feel calm.</description>
+    <emoji>🕯️</emoji>
+    <badge></badge>
+  </product>
+  <product id="n205">
+    <name>Modern Table Lamp</name>
+    <category>Living</category>
+    <price>44.00</price>
+    <description>A warm light for your favourite corner.</description>
+    <emoji>💡</emoji>
+    <badge>Featured</badge>
+  </product>
+  <product id="n206">
+    <name>Cotton Cushion Set</name>
+    <category>Living</category>
+    <price>29.00</price>
+    <description>A comfortable update for your sofa or bed.</description>
+    <emoji>🛋️</emoji>
+    <badge></badge>
+  </product>
+  <product id="n207">
+    <name>Smart Fitness Band</name>
+    <category>Gadgets</category>
+    <price>38.00</price>
+    <description>Keep everyday activity close at hand.</description>
+    <emoji>⌚</emoji>
+    <badge>New</badge>
+  </product>
+  <product id="n208">
+    <name>Wireless Headphones</name>
+    <category>Gadgets</category>
+    <price>55.00</price>
+    <description>Comfortable listening for work and downtime.</description>
+    <emoji>🎧</emoji>
+    <badge></badge>
+  </product>
+</products>
